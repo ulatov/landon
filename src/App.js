@@ -19,9 +19,7 @@ function App() {
         </a>
       </header>
       <main></main>
-      <footer>
-        (c) 2023 made by <a href="https://ulatov.com" target="_blank" rel="noreferrer">me</a>
-      </footer>
+      <footer>Made with fun by <a href="https://ulatov.com" target="_blank" rel="noreferrer">me</a> in 2023</footer>
     </div>
   );
 }
