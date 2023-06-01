@@ -18,6 +18,10 @@ function App() {
           Learn React in less than a day
         </a>
       </header>
+      <main></main>
+      <footer>
+        (c) 2023 made by <a href="https://ulatov.com" target="_blank" rel="noreferrer">me</a>
+      </footer>
     </div>
   );
 }
