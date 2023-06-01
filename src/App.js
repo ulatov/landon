@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <main></main>
-      <footer>Made with fun by <a href="https://ulatov.com" target="_blank" rel="noreferrer">me</a> in 2023</footer>
+      <footer>Made by <a href="https://ulatov.com" target="_blank" rel="noreferrer">me</a> with fun in 2023</footer>
     </div>
   );
 }
